@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iexaeshibu.dominicdabish.com/sitemap.xml
